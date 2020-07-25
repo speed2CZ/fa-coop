@@ -24,7 +24,6 @@ function CreateUI()
         GUI.AIFillButton:Hide()
         GUI.AIClearButton:Hide()
         GUI.TeamCountSelector:Hide()
-        GUI.AIFillPanelBorder:Hide()
     end
 
     -- Force the teams display to always stay hidden.
